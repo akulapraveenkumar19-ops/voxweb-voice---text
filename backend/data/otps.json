@@ -1,0 +1,47 @@
+[
+  {
+    "email": "srinuakula@gmail.com",
+    "otp": "983485",
+    "purpose": "Password Reset",
+    "expires_at": "2026-10-02T10:18:47.814978+00:00",
+    "used": false,
+    "created_at": "2026-10-02T10:08:47.816519+00:00",
+    "_id": "ec52cc2c-96b1-405a-9239-b4c0e509f287"
+  },
+  {
+    "email": "py7987790@gmail.com",
+    "otp": "542301",
+    "purpose": "Password Reset",
+    "expires_at": "2026-10-02T10:24:30.919599+00:00",
+    "used": false,
+    "created_at": "2026-10-02T10:14:30.919599+00:00",
+    "_id": "c677803e-2059-4d05-9635-8ac3cb4e3635"
+  },
+  {
+    "email": "david.285@gmail.com",
+    "otp": "086143",
+    "purpose": "Sign-In Verification",
+    "expires_at": "2026-10-02T10:25:06.508533+00:00",
+    "used": false,
+    "created_at": "2026-10-02T10:15:06.509480+00:00",
+    "_id": "c32bcfc7-4fe7-48f3-9b6f-67288797172b"
+  },
+  {
+    "email": "random_user_99@gmail.com",
+    "otp": "284098",
+    "purpose": "Sign-In Verification",
+    "expires_at": "2026-10-02T10:28:06.930411+00:00",
+    "used": false,
+    "created_at": "2026-10-02T10:18:06.930411+00:00",
+    "_id": "7c94a52f-25ae-4412-9f88-ba2a20788581"
+  },
+  {
+    "email": "akulapraveenkumar19@gmail.com",
+    "otp": "005835",
+    "purpose": "Sign-In Verification",
+    "expires_at": "2026-10-02T10:52:32.522138+00:00",
+    "used": true,
+    "created_at": "2026-10-02T10:42:32.524253+00:00",
+    "_id": "fb2ca7c0-01b8-4c99-b6c1-c0ebba035b26"
+  }
+]
